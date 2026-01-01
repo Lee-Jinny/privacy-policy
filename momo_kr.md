@@ -1,6 +1,7 @@
 ## 개인정보 처리방침
 
 최초 게시일: 2026-01-02
+English Version: [Click here](https://raw.githubusercontent.com/Lee-Jinny/privacy-policy/refs/heads/master/momo.en.md)
 
 ### 1. 개요
 본 개인정보 처리방침은 ‘momo’(이하 ‘앱’)가 사용자의 정보를 어떻게 처리하는지 설명합니다. 본 앱은 카메라를 통해 이미지를 스캔하고 문장을 추출하는 기능을 제공하며, 모든 데이터 처리는 사용자의 기기 내에서 이루어지는 온디바이스(On-device) 방식을 지향합니다.
