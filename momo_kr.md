@@ -1,6 +1,7 @@
 ## 개인정보 처리방침
 
 최초 게시일: 2026-01-02
+
 English Version: [Click here](https://raw.githubusercontent.com/Lee-Jinny/privacy-policy/refs/heads/master/momo.en.md)
 
 ### 1. 개요
