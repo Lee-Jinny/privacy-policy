@@ -15,7 +15,7 @@ This Privacy Policy explains how ‘momo’ (hereinafter referred to as the "App
 ### 3. Device Permissions
 
 * **Camera:** Required to capture text from physical documents or books for extraction.
-* **Storage (Optional):** Required to import images from the gallery for text extraction or to save memos locally on the device.
+* **Storage:** Required to import images from the gallery for text extraction or to save memos locally on the device.
 
 ### 4. Advertising and Third-Party Services
 
